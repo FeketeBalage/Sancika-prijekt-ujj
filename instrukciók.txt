@@ -1,0 +1,23 @@
+Saját css fájl is legyen!
+Bootstrapes weblaprendszerbe beintegrálni , ami a növenyekről szól:
+
+(Bootstrapes navigáció van, legalább annyi menüpont ahány csapattag, reszponzív legyen, legyenek képek, CARD-ok)
+
+források megjelölése
+
+Python rész:
+https://www.moe.hu/kepzes2017/3_az_ntzs_idejnek_meghatrozsa.html
+weboldalon az öntözésről olvashatsz.
+1. Készíts Python programot, amelyben az Öntözési forduló-t számítja ki a program, az öntözővíz adag mm-ben megadott értékéből, és az ET mm/nap-ban megadott értékéből
+2. Készíts Python programot, amelyben az Öntözési időt számítod az öntözővíz adag mm-ben megadott értékéből és a mm/órában megadott intenzitásból.
+---
+Integráljátok be a projektetekbe ezt az öntözési témát!
+Úgy alakítsátok a témát, hogy a weboldalon lévő táblázatot is használjátok fel a weboldalon. Az alsóbb kisebbet: 
+3.2 táblázat. Az esőszerű öntözés párolgási veszteségei
+Készítsd el a táblázat adatait egy fájlban úgy, hogy kényelmesen be lehessen olvasdni valamilyen adatszerkezetbe. A program írja ki a szórófej típusokat és a felhasználó választhasson egyet. Akkor a progrram pedig kiírja az öntözési időszakot nappalra és éjszakára
+
+A Python programokat lehessen letölteni a weblaprendszerből. Tehát ezt az öntözési témát beintegrálod, hogy pl. öntözési segédprogramok.
+
+Minden csapattag legalább 1 Python programot készít. Természetesen a megadott követleményeken túl is lehet programot készíteni és egyéb bootstrapes jellemzőket felhasználni
+
+Githubon vezetni a szokásos a módon
